@@ -1,9 +1,3 @@
-body {
-  color: black; }
-
-.wrapper {
-  height: 100vh; }
-
 *,
 *::before,
 *::after {
@@ -53,5 +47,28 @@ q:before, q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0; }
+
+body {
+  background-color: black; }
+
+.wrapper {
+  height: 100vh;
+  text-align: center;
+  background-color: #EFD2B3; }
+
+.daddy-link {
+  padding-top: 1.7em;
+  margin-bottom: 1em;
+  text-align: left;
+  padding-left: 6em; }
+  .daddy-link a {
+    font-family: "Tillana";
+    font-size: 1.3em;
+    text-decoration: none; }
+
+.para {
+  font-family: "Josefin Slab";
+  color: #AF1B3F;
+  font-size: 1em; }
 
 /*# sourceMappingURL=main.css.map */

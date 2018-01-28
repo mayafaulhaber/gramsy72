@@ -1,6 +1,24 @@
 body {
-  color: black;
+  background-color: black;
 }
 .wrapper {
   height: 100vh;
+  text-align: center;
+  background-color: $peachfuzz;
+}
+.daddy-link {
+  padding-top: 1.7em;
+  margin-bottom: 1em;
+  text-align: left;
+  padding-left: 6em;
+  a {
+    font-family: $link;
+    font-size: 1.3em;
+    text-decoration: none;
+  }
+}
+.para {
+  font-family: $paragraph;
+  color: $redwine;
+  font-size: 1em;
 }
