@@ -66,9 +66,16 @@ body {
     font-size: 1.3em;
     text-decoration: none; }
 
+.h {
+  margin-top: 0.7em;
+  color: #5D0060;
+  font-family: "Expletus Sans";
+  font-size: 2.9em;
+  margin-bottom: 1em; }
+
 .para {
   font-family: "Josefin Slab";
   color: #AF1B3F;
-  font-size: 1em; }
+  font-size: 1.2em; }
 
 /*# sourceMappingURL=main.css.map */

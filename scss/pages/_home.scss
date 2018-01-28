@@ -15,10 +15,18 @@ body {
     font-family: $link;
     font-size: 1.3em;
     text-decoration: none;
+
   }
+}
+.h {
+  margin-top: 0.7em;
+  color: $aphmoo;
+  font-family: $heading;
+  font-size: 2.9em;
+  margin-bottom: 1em;
 }
 .para {
   font-family: $paragraph;
   color: $redwine;
-  font-size: 1em;
+  font-size: 1.2em;
 }
