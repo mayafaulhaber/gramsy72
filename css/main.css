@@ -82,6 +82,12 @@ body {
   font-family: "Josefin Slab";
   color: #AF1B3F;
   font-size: 1.2em; }
+  .para a {
+    text-decoration: none;
+    color: #69B578; }
+    .para a:hover {
+      color: #3C9CAD;
+      text-decoration: underline; }
 
 .strikeone {
   padding-top: 3.2em;
