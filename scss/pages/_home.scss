@@ -15,7 +15,12 @@ body {
     font-family: $link;
     font-size: 1.3em;
     text-decoration: none;
-
+    color: $sky;
+    &:hover {
+        color: $babyblue;
+        text-decoration: underline;
+        text-decoration-style: wavy;
+    }
   }
 }
 .h {
@@ -30,3 +35,16 @@ body {
   color: $redwine;
   font-size: 1.2em;
 }
+.strikeone {
+  padding-top: 3.2em;
+  margin-bottom: 0;
+  audio {
+    margin-top: 0;
+    width:200px;
+    height: 32px;
+  }
+}
+script {
+  background-color: tomato;
+  justify-content: left;
+  }

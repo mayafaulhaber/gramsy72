@@ -64,7 +64,12 @@ body {
   .daddy-link a {
     font-family: "Tillana";
     font-size: 1.3em;
-    text-decoration: none; }
+    text-decoration: none;
+    color: #3C9CAD; }
+    .daddy-link a:hover {
+      color: #96BBBB;
+      text-decoration: underline;
+      text-decoration-style: wavy; }
 
 .h {
   margin-top: 0.7em;
@@ -77,5 +82,17 @@ body {
   font-family: "Josefin Slab";
   color: #AF1B3F;
   font-size: 1.2em; }
+
+.strikeone {
+  padding-top: 3.2em;
+  margin-bottom: 0; }
+  .strikeone audio {
+    margin-top: 0;
+    width: 200px;
+    height: 32px; }
+
+script {
+  background-color: tomato;
+  justify-content: left; }
 
 /*# sourceMappingURL=main.css.map */
