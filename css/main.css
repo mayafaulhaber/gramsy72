@@ -52,7 +52,7 @@ body {
   background-color: black; }
 
 .wrapper {
-  height: 100vh;
+  height: 115vh;
   text-align: center;
   background-color: #EFD2B3; }
 
@@ -89,10 +89,10 @@ body {
       color: #3C9CAD;
       text-decoration: underline; }
 
-.strikeone {
+.Pressure {
   padding-top: 3.2em;
   margin-bottom: 0; }
-  .strikeone audio {
+  .Pressure audio {
     margin-top: 0;
     width: 200px;
     height: 32px; }
